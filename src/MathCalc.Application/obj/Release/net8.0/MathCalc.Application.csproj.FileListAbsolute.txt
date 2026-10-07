@@ -1,0 +1,15 @@
+C:\_projects\0004. tests\003. AI\KIRO\001\MathCalc\src\MathCalc.Application\bin\Release\net8.0\MathCalc.Application.deps.json
+C:\_projects\0004. tests\003. AI\KIRO\001\MathCalc\src\MathCalc.Application\bin\Release\net8.0\MathCalc.Application.dll
+C:\_projects\0004. tests\003. AI\KIRO\001\MathCalc\src\MathCalc.Application\bin\Release\net8.0\MathCalc.Application.pdb
+C:\_projects\0004. tests\003. AI\KIRO\001\MathCalc\src\MathCalc.Application\bin\Release\net8.0\MathCalc.Domain.dll
+C:\_projects\0004. tests\003. AI\KIRO\001\MathCalc\src\MathCalc.Application\bin\Release\net8.0\MathCalc.Domain.pdb
+C:\_projects\0004. tests\003. AI\KIRO\001\MathCalc\src\MathCalc.Application\obj\Release\net8.0\MathCalc.Application.csproj.AssemblyReference.cache
+C:\_projects\0004. tests\003. AI\KIRO\001\MathCalc\src\MathCalc.Application\obj\Release\net8.0\MathCalc.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\_projects\0004. tests\003. AI\KIRO\001\MathCalc\src\MathCalc.Application\obj\Release\net8.0\MathCalc.Application.AssemblyInfoInputs.cache
+C:\_projects\0004. tests\003. AI\KIRO\001\MathCalc\src\MathCalc.Application\obj\Release\net8.0\MathCalc.Application.AssemblyInfo.cs
+C:\_projects\0004. tests\003. AI\KIRO\001\MathCalc\src\MathCalc.Application\obj\Release\net8.0\MathCalc.Application.csproj.CoreCompileInputs.cache
+C:\_projects\0004. tests\003. AI\KIRO\001\MathCalc\src\MathCalc.Application\obj\Release\net8.0\MathCalc.0E0654B1.Up2Date
+C:\_projects\0004. tests\003. AI\KIRO\001\MathCalc\src\MathCalc.Application\obj\Release\net8.0\MathCalc.Application.dll
+C:\_projects\0004. tests\003. AI\KIRO\001\MathCalc\src\MathCalc.Application\obj\Release\net8.0\refint\MathCalc.Application.dll
+C:\_projects\0004. tests\003. AI\KIRO\001\MathCalc\src\MathCalc.Application\obj\Release\net8.0\MathCalc.Application.pdb
+C:\_projects\0004. tests\003. AI\KIRO\001\MathCalc\src\MathCalc.Application\obj\Release\net8.0\ref\MathCalc.Application.dll

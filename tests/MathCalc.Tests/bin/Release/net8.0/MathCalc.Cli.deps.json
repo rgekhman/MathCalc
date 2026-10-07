@@ -1,0 +1,56 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "MathCalc.Cli/1.0.0": {
+        "dependencies": {
+          "MathCalc.Application": "1.0.0",
+          "MathCalc.Domain": "1.0.0"
+        },
+        "runtime": {
+          "MathCalc.Cli.dll": {}
+        }
+      },
+      "MathCalc.Application/1.0.0": {
+        "dependencies": {
+          "MathCalc.Domain": "1.0.0"
+        },
+        "runtime": {
+          "MathCalc.Application.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "MathCalc.Domain/1.0.0": {
+        "runtime": {
+          "MathCalc.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MathCalc.Cli/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MathCalc.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MathCalc.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

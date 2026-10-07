@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/MathCalc.Application/MathCalc.Application.csproj" />
+    <Project Path="src/MathCalc.Cli/MathCalc.Cli.csproj" />
+    <Project Path="src/MathCalc.Domain/MathCalc.Domain.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/MathCalc.Tests/MathCalc.Tests.csproj" />
+  </Folder>
+</Solution>

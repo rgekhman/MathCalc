@@ -1,0 +1,11 @@
+C:\_projects\0004. tests\003. AI\KIRO\001\MathCalc\src\MathCalc.Domain\bin\Release\net8.0\MathCalc.Domain.deps.json
+C:\_projects\0004. tests\003. AI\KIRO\001\MathCalc\src\MathCalc.Domain\bin\Release\net8.0\MathCalc.Domain.dll
+C:\_projects\0004. tests\003. AI\KIRO\001\MathCalc\src\MathCalc.Domain\bin\Release\net8.0\MathCalc.Domain.pdb
+C:\_projects\0004. tests\003. AI\KIRO\001\MathCalc\src\MathCalc.Domain\obj\Release\net8.0\MathCalc.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\_projects\0004. tests\003. AI\KIRO\001\MathCalc\src\MathCalc.Domain\obj\Release\net8.0\MathCalc.Domain.AssemblyInfoInputs.cache
+C:\_projects\0004. tests\003. AI\KIRO\001\MathCalc\src\MathCalc.Domain\obj\Release\net8.0\MathCalc.Domain.AssemblyInfo.cs
+C:\_projects\0004. tests\003. AI\KIRO\001\MathCalc\src\MathCalc.Domain\obj\Release\net8.0\MathCalc.Domain.csproj.CoreCompileInputs.cache
+C:\_projects\0004. tests\003. AI\KIRO\001\MathCalc\src\MathCalc.Domain\obj\Release\net8.0\MathCalc.Domain.dll
+C:\_projects\0004. tests\003. AI\KIRO\001\MathCalc\src\MathCalc.Domain\obj\Release\net8.0\refint\MathCalc.Domain.dll
+C:\_projects\0004. tests\003. AI\KIRO\001\MathCalc\src\MathCalc.Domain\obj\Release\net8.0\MathCalc.Domain.pdb
+C:\_projects\0004. tests\003. AI\KIRO\001\MathCalc\src\MathCalc.Domain\obj\Release\net8.0\ref\MathCalc.Domain.dll
